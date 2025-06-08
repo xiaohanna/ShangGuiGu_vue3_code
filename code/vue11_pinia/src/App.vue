@@ -46,6 +46,9 @@ onMounted(() => {
 </script>
 
 <template>
+  <h1>
+      pinia 的学习
+  </h1>
   <!-- 组件之间参数传递 -->
     <div class="nav">
         <div class="item" @click="openAbout">关于</div>
